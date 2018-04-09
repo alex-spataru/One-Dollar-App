@@ -2,6 +2,10 @@
 
 An application that can be downloaded from the Google Play Store for $1 USD. Nothing more, nothing less.
 
-## Attributions
+### Attributions
 
-The icon displayed on the main screen is made by [Freepik](https://www.flaticon.com/authors/freepik) under the [Flaticon License](https://file000.flaticon.com/downloads/license/license.pdf)
+The icon displayed on the main screen is made by [Freepik](https://www.flaticon.com/authors/freepik) under the [Flaticon License](https://file000.flaticon.com/downloads/license/license.pdf).
+
+### Licence
+
+This project is released under the WTFPL licence.
